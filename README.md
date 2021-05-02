@@ -15,11 +15,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belabdifatimazohra&show_icons=true&locale=en&layout=compact" alt="belabdifatimazohra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belabdifatimazohra&show_icons=true&locale=en" alt="belabdifatimazohra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belabdifatimazohra&" alt="belabdifatimazohra" /></p>
 
+# [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 # [![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=belabdifatimazohra&theme=blue-green)](https://github.com/belabdifatimazohra/github-readme-stats)
 
