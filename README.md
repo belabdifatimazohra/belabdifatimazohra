@@ -30,7 +30,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=Material-UI)
+  ![Material-UI](	https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white)
 
  - ## 💻 OS
     > ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)    ![Linux_mint](https://img.shields.io/badge/Linux-mint-333333?style=flat&logo=Linux-mint)
