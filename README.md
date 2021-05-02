@@ -26,7 +26,6 @@
     ![Microsoft%20SQL%20Sever](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - ## 🚀 Frameworks
   > ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
